@@ -1,0 +1,64 @@
+version: '3.8'
+services:
+  catalogdb:
+    image: mongo
+  basketdb:
+    image: redis
+  discountdb:
+    image: postgres
+  identitydb:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+  orderdb:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+  rabbitmq:
+    image: rabbitmq:3.9.13-management
+  catalog.api:
+    image: catalog_api_image
+    build: 
+      context: .
+      dockerfile: Services/Catalog/SISEcommerce.Services.Catalog/Dockerfile
+  identityserver.api:
+    image: identityserver_api_image
+    build: 
+      context: .
+      dockerfile: IdentityServer/SISECommerce.IdentityServer/Dockerfile
+  basket.api:
+    image: basket_api_image
+    build: 
+      context: .
+      dockerfile: Services/Basket/SISEcommerce.Services.Basket/Dockerfile
+  photostock.api:
+    image: photostock_api_image
+    build: 
+      context: .
+      dockerfile: Services/PhotoStock/SISEcommerce.Services.PhotoStock/Dockerfile
+  discount.api:
+    image: discount_api_image
+    build: 
+      context: .
+      dockerfile: Services/Discount/SISEcommerce.Services.Discount/Dockerfile
+  fakepayment.api:
+    image: fakepayment_api_image
+    build: 
+      context: .
+      dockerfile: Services/FakePayment/SISEcommerce.Services.FakePayment/Dockerfile
+  order.api:
+    image: order_api_image
+    build: 
+      context: .
+      dockerfile: Services/Order/SISEcommerce.Services.Order.API/Dockerfile
+  gateway.api:
+    image: gateway_api_image
+    build: 
+      context: .
+      dockerfile: Gateways/SISEcommerce.Gateway/Dockerfile
+  mvccore.web:
+    image: mvccore.web_image
+    build: 
+      context: .
+      dockerfile: Client/MVC-Core/SISEcommerce.Web/Dockerfile
+volumes:
+  catalogdb_volume:
+  discount_volume:
+  identitydb_volume:
+  orderdb_volume:

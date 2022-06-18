@@ -1,0 +1,10 @@
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\bin\Debug\netcoreapp3.1\SISECommerce.Shared.deps.json
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\bin\Debug\netcoreapp3.1\SISECommerce.Shared.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\bin\Debug\netcoreapp3.1\SISECommerce.Shared.pdb
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.csproj.AssemblyReference.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.AssemblyInfoInputs.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.AssemblyInfo.cs
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.csproj.CoreCompileInputs.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Shared\SISECommerce.Shared\obj\Debug\netcoreapp3.1\SISECommerce.Shared.pdb

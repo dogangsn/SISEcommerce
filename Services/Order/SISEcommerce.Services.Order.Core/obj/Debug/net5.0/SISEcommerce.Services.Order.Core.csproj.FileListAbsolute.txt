@@ -1,0 +1,11 @@
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\bin\Debug\net5.0\SISEcommerce.Services.Order.Core.deps.json
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\bin\Debug\net5.0\SISEcommerce.Services.Order.Core.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\bin\Debug\net5.0\ref\SISEcommerce.Services.Order.Core.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\bin\Debug\net5.0\SISEcommerce.Services.Order.Core.pdb
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\SISEcommerce.Services.Order.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\SISEcommerce.Services.Order.Core.AssemblyInfoInputs.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\SISEcommerce.Services.Order.Core.AssemblyInfo.cs
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\SISEcommerce.Services.Order.Core.csproj.CoreCompileInputs.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\SISEcommerce.Services.Order.Core.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\ref\SISEcommerce.Services.Order.Core.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Core\obj\Debug\net5.0\SISEcommerce.Services.Order.Core.pdb

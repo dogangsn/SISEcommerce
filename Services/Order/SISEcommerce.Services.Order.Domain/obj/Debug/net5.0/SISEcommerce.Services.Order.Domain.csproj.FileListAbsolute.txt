@@ -1,0 +1,15 @@
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\bin\Debug\net5.0\SISEcommerce.Services.Order.Domain.deps.json
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\bin\Debug\net5.0\SISEcommerce.Services.Order.Domain.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\bin\Debug\net5.0\ref\SISEcommerce.Services.Order.Domain.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\bin\Debug\net5.0\SISEcommerce.Services.Order.Domain.pdb
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\bin\Debug\net5.0\SISEcommerce.Services.Order.Core.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\bin\Debug\net5.0\SISEcommerce.Services.Order.Core.pdb
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.csproj.AssemblyReference.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.AssemblyInfoInputs.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.AssemblyInfo.cs
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.csproj.CoreCompileInputs.cache
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.csproj.CopyComplete
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\ref\SISEcommerce.Services.Order.Domain.dll
+D:\Dogan\Project\SIS.Ecoommerce\SISEcommerce\Services\Order\SISEcommerce.Services.Order.Domain\obj\Debug\net5.0\SISEcommerce.Services.Order.Domain.pdb
