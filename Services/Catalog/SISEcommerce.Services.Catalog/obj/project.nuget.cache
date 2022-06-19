@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n29+MGaDKwdH0fHMKLA4W7XXzcYRDxcdelqypjOESUOuuQbXijSoCHYQG3/72eb88gpLx9c4obwEEGoKvz+k/w==",
+  "dgSpecHash": "JZ8m25TC3+51agSHZgrpNWCpGgjDWl9Ero8SjDRS6ZKSdikwMOpvcIfC0tlCxjvuNXZS4C4ti/Ym0vdqdW7few==",
   "success": true,
   "projectFilePath": "D:\\Dogan\\Project\\SISEcommerce\\Services\\Catalog\\SISEcommerce.Services.Catalog\\SISEcommerce.Services.Catalog.csproj",
   "expectedPackageFiles": [
@@ -57,8 +57,7 @@
     "C:\\Users\\DG\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
     "C:\\Users\\DG\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
     "C:\\Users\\DG\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
-    "C:\\Users\\DG\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\DG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+    "C:\\Users\\DG\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
