@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("SISEcommerce.Web")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6d793f9f0b8460506c76fd665bf66bd31db53b")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SISEcommerce.Web.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

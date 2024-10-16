@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SISEcommerce.Services.PhotoStock.props" />
+</Project>

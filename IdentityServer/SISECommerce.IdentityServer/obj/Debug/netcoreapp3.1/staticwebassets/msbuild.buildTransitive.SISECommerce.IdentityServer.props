@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SISECommerce.IdentityServer.props" />
+</Project>

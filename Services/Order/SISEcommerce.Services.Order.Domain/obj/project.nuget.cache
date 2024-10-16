@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Srgg4Ief+TzzwcEJGbpHCxi1tPp1A7+P6Y+zSk/Prq91N2MvhgUuV7x/wYehkw+UEMQtVORJVTIhs6aKj6GpGw==",
+  "dgSpecHash": "L1WaVwa1yZgurTkmj6BiB3DO+DTJblBi37I/poH3DKfxeBg23Ha1dlo1lLYoIhgDM60nPMScA09/T1qtiBzqUQ==",
   "success": true,
-  "projectFilePath": "D:\\Dogan\\Project\\SISEcommerce\\Services\\Order\\SISEcommerce.Services.Order.Domain\\SISEcommerce.Services.Order.Domain.csproj",
+  "projectFilePath": "D:\\Private\\Project\\SISEcommerce\\Services\\Order\\SISEcommerce.Services.Order.Domain\\SISEcommerce.Services.Order.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DG\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
-    "C:\\Users\\DG\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
-    "C:\\Users\\DG\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    "C:\\Users\\dogan\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
